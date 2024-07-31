@@ -13,6 +13,14 @@ class Solution {
                 num++;
             }
         }
+        /*for(int i=0;i<nums.length;i++){
+        int digit=(int) Math.log10(nums[i])+1;
+       
+        if(digit%2==0){
+            ans++;
+        }
+    }*/
+        
         return num;
     }
 }
