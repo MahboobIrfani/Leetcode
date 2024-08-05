@@ -17,7 +17,6 @@ class Solution {
             }
                 if(col0==0)
                     matrix[i][0]=0;
-        
         }
     }
 }
