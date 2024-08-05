@@ -7,7 +7,7 @@ class Solution {
             if (gcd == 1)
                 return true;
         }
-        return gcd == 1;
+        return gcd==1;
     }
 
     public int gcd(int num1, int num2) {
